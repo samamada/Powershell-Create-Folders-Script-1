@@ -13,7 +13,7 @@ This PowerShell script is designed to automate the creation of multiple folders 
 
 2. **Navigate to Script Directory:**
    ```bash
-   cd your-repository
+   cd Powershell-Script-1
    ```
 
 3. **Modify Script Parameters:**
