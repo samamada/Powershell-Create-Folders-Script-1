@@ -8,12 +8,12 @@ This PowerShell script is designed to automate the creation of multiple folders 
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/samamada/Powershell-Create-Multi-Folder-Script-1.git
    ```
 
 2. **Navigate to Script Directory:**
    ```bash
-   cd Powershell-Script-1
+   cd Powershell-Create-Multi-Folder-Script-1
    ```
 
 3. **Modify Script Parameters:**
