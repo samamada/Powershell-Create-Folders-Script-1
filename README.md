@@ -8,16 +8,16 @@ This PowerShell script is designed to automate the creation of multiple folders 
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/samamada/Powershell-Create-Multi-Folder-Script-1.git
+   git clone https://github.com/samamada/Powershell-Create-Folders-Script-1.git
    ```
 
 2. **Navigate to Script Directory:**
    ```bash
-   cd Powershell-Create-Multi-Folder-Script-1
+   cd Powershell-Create-Folders-Script-1
    ```
 
 3. **Modify Script Parameters:**
-   Open the `CreateFolders.ps1` script in a text editor and adjust the following variables:
+   Open the `Powershell-Create-Folders-Script-1` script in a text editor and adjust the following variables:
    - `$intfolders`: Set the total number of folders to be created.
    - `$intPad`: Set the padding for the folder index.
    - `$strPrefix`: Set the prefix for folder names.
@@ -25,7 +25,7 @@ This PowerShell script is designed to automate the creation of multiple folders 
 4. **Run the Script:**
    Execute the script in a PowerShell environment.
    ```powershell
-   .\CreateFolders.ps1
+   .\Powershell-Create-Folders-Script-1
    ```
 
 5. **Review Output:**
